@@ -1,0 +1,8 @@
+meu_projeto/
+├── templates/
+│   ├── index.html
+│   ├── modulos_windows.html
+│   ├── modulos_linux.html
+├── static/
+│   └── style.css
+├── flask_pyqt.py
